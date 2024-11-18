@@ -1,6 +1,6 @@
 # Stack Program
 
-This program is a simple Java implementation of a **Stack data Structure** using an ArrayList. 
+This program is a simple Java implementation of a **Stack Data Structure** using an ArrayList. 
 it allows users to perform basic stack operations such as adding items, checking if the stack is empty, and retrieving all stack elements in the same order they were added following LIFO pronciple: last in First out. 
 
 ## Features
